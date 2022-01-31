@@ -18,3 +18,6 @@ def lambda_handler(event, context):
         'statusCode': 200,
         'body': fee_summary_report
     }
+
+
+#https://stackoverflow.com/questions/70913017/how-to-read-content-of-a-file-from-a-folder-in-s3-bucket-using-python/70921219#70921219
